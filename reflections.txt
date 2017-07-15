@@ -1,0 +1,13 @@
+Diff has been very useful to find the bug that was hidden in the code. It points out the different lines of codes by marking them as deleted or added, so you just have to search those lines instead of the whole code.
+
+The command is : diff -u file1 file2
+
+Having easy access to the entire history of a file can make you a more efficient programmer, because you can always step back and see what you have done during th entire process of programming. perhaps you can also try different ways of solving problems and see which work best.
+
+The pros of automatically saving versions is that you won't forget to do it. The cons however is that there is a chance they won't be very logical, or too big or too small.
+
+When files are stored in a depository, they have a dependency. That's why git allows saving multiple files in one commit.
+
+You can use the command git log to get a list of historic events and the ID-keys. Then you can use git diff to have a look at the changes which are made between two versions.
+
+With version control making mistakes isn't that much of a problem, since you can go back at any time and find them. So it's not really a problem to give 'risky' things a try.
