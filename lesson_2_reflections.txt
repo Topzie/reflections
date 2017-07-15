@@ -16,4 +16,8 @@ When you like to try out different ways of solving problems. Experimenting. Or t
 
 How do the diagrams help you visualize the branch structure?
 
-The diagrams visualize the way commits are reached. You see commits as parents and children. You can see the historical order, the masterbranch and others. 
+The diagrams visualize the way commits are reached. You see commits as parents and children. You can see the historical order, the masterbranch and others.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When you merge two branches ll the commits will be reachble by the merged branch. 
