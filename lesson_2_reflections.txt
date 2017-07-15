@@ -20,4 +20,4 @@ The diagrams visualize the way commits are reached. You see commits as parents a
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-When you merge two branches ll the commits will be reachble by the merged branch. 
+When you merge two branches all the commits of the former two branches  will be reachable by the merged branch. 
