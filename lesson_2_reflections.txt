@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repo there will be a hidden file created called .git, which contains all metadata on your git commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Thes dtaging area is like stroing informatin in a temporary file (cache). You can handle files one at a time, so you hve separate commits (which you can track back easier than when they were committed all at the same time) and next you can commit all the changes at once definite in the next step (to the repo).
