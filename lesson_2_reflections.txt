@@ -4,4 +4,4 @@ When you initialize a repo there will be a hidden file created called .git, whic
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Thes dtaging area is like stroing informatin in a temporary file (cache). You can handle files one at a time, so you hve separate commits (which you can track back easier than when they were committed all at the same time) and next you can commit all the changes at once definite in the next step (to the repo).
+The staging area is like storing information in a temporary file (cache). After you have put several files up there, you can commit them one by one with a meaningful description.
